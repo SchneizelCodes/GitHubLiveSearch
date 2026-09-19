@@ -1,0 +1,10 @@
+{
+  "description": "Generates professional GitHub README designs to help developers create clear, attractive project documentation quickly and easily.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
